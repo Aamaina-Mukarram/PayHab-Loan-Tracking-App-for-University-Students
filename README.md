@@ -1,16 +1,3 @@
-# payhab
+# PayHab - Loan Tracking App for University Students
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PayHab is a simple and effective loan tracking app designed specifically for university students who often don’t have cash on hand and need to take small, short-term loans to pay campus vendors. It helps students keep track of how much they owe, to whom, and when it's due—making informal borrowing more organized, transparent, and manageable.
